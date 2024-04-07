@@ -1,0 +1,26 @@
+/* nav {
+  width: 100vw;
+  height: max-content;
+} */
+.nav-container {
+  /* width: 100vw;
+  height: 20vh; */
+  display: flex;
+}
+
+.menu-container {
+  width: 200px;
+  height: 40px;
+  background-color: palevioletred;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: black;
+}
+
+Link {
+  color: black;
+}
